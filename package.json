@@ -1,0 +1,30 @@
+{
+  "name": "ImageLoader",
+  "version": "1.0.1",
+  "description": "React Component to Support Animation process view for networked images",
+  "main": "ImageLoader.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekkohli1989/ImageLoader.git"
+  },
+  "keywords": [
+    "Image",
+    "Loader",
+    "React",
+    "Image",
+    "Loader",
+    "Animation",
+    "processview"
+  ],
+  "author": "Prateek Kohli @ VGroup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekkohli1989/ImageLoader/issues"
+  },
+  "homepage": "https://github.com/prateekkohli1989/ImageLoader#readme"
+}
