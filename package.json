@@ -1,5 +1,5 @@
 {
-  "name": "Image-Loader",
+  "name": "Image_Loader",
   "version": "1.0.1",
   "description": "React Component to Support Animation process view for networked images",
   "main": "ImageLoader.js",
